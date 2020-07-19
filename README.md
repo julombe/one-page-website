@@ -29,7 +29,7 @@ O projecto foi desenvolvido utilizando as seguintes tecnologias:
  ## 📁Como baixar o projecto
   ```bash
     # Clonar o repositório
-    $ git clone https://github.com/julombe/nlw-starter
+    $ git clone https://github.com/julombe/one-page-website
 
   ```
   ---
