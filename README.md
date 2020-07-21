@@ -11,7 +11,7 @@
 
 ## 🎯Sobre
 
-Página desenvolvida para practicar os conhecimentos de HTML, CSS e JavaScript. Foi utilizado o módelo de Página de portfólio pessoal.
+Página desenvolvida para praticar os conhecimentos de HTML, CSS e JavaScript. Foi utilizado o módelo de Página de portfólio pessoal.
 
 ---
 
