@@ -19,9 +19,11 @@ Página desenvolvida para praticar os conhecimentos de HTML, CSS e JavaScript. F
 
 O projecto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://www.learn-html.org/)
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [HTML5](https://www.learn-html.org/)
+- [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JavaScript](http://www.ecma-international.org/ecma-262/6.0/)
+- [Nunjucks](https://mozilla.github.io/nunjucks/templating.html)
+- [Express](https://mozilla.github.io/nunjucks/templating.html)
 
 
 ---
