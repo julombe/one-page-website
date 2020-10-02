@@ -3,6 +3,9 @@ const nunjucks = require('nunjucks') //importando a biblioteca do nunjucks
 
 const server = express()
 
+//use CSS
+server.use(express.static('public'))
+
 //configure template engine(nunjucks)
 server.set("view engine", "njk")   //setar qual é o motor de views da app, qual é a extensão dos arquivos para abrir 
 nunjucks.configure("views", {
