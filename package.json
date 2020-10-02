@@ -4,7 +4,7 @@
   "description": "<h1 align=\"center\">\r     <img src=\"https://ik.imagekit.io/jlzh3neixu/onepage_pvooDi1NYG8A.png\">\r </h1>",
   "main": "script.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/julombe/one-page-website/issues"
   },
-  "homepage": "https://github.com/julombe/one-page-website#readme"
+  "homepage": "https://github.com/julombe/one-page-website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
