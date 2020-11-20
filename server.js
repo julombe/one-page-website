@@ -6,6 +6,7 @@ const server = express()
 
 //use CSS
 server.use(express.static('public'))
+server.use(routes)
 
 //configure template engine(nunjucks)
 server.set("view engine", "njk")   //setar qual é o motor de views da app, qual é a extensão dos arquivos para abrir 
