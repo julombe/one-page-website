@@ -1,5 +1,6 @@
 const express = require('express')  //importando a biblioteca do express
 const nunjucks = require('nunjucks') //importando a biblioteca do nunjucks
+const routes = require('./routes') //chamando o ficheiro de rotas
 
 const server = express()
 
