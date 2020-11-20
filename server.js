@@ -17,25 +17,6 @@ nunjucks.configure("views", {
     
 })
 
-
-// create route
-server.get("/", function(req, res) {
-    return res.render("index")
-})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //start server
 
 server.listen(3000, function() {
